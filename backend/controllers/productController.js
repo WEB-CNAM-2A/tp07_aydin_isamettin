@@ -1,6 +1,6 @@
 // controllers/productController.js
 
-const productUseCases = require('../core/useCases/productUseCases');
+const productUseCases = require('../core/usecases/productUseCases');
 
 async function getAllProducts(req, res, next) {
   try {
