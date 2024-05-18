@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    backendClient: 'http://localhost:3000'
+    backendClient: 'https://tp07-aydin-isamettin-backend.onrender.com/'
 };
